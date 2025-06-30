@@ -1,2 +1,0 @@
-// shim.js
-module.exports = {};
